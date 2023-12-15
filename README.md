@@ -3,9 +3,9 @@
 <h2 align="center">Всем привет, меня зовут Кристина </a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
  
-🔀 **Направление деятельности:** Анализ данных  
+🔀 **Сфера моей деятельности:** Уже 10 лет лет я занимаюсь анализом данных и продолжаю развитие в этом направлении
    
-:octocat: **Ключевые навыки:** SQL, Python, MS Excel, Yandex DataLens, Tableau  
+:octocat: **Мои ключевые навыки:** SQL, Python, MS Excel, Yandex DataLens, Tableau  
 
 <p> <a href="https://t.me/KrisParfe"><img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25></a>  </p>
 
